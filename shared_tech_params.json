@@ -1,0 +1,12 @@
+{
+    "assets": {
+        "AAP": {
+            "name": "pickr.js source",
+            "url": "//meta-l.cdn.bubble.io/f1694806071198x603459337829098200/cdn.jsdelivr.net_npm_%40simonwep_pickr_dist_pickr.min.js"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": "4",
+        "use_jquery": true
+    }
+}

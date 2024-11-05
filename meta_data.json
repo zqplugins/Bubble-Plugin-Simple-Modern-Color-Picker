@@ -1,0 +1,18 @@
+{
+    "categories": {
+        "0": "productivity",
+        "1": "technical",
+        "2": "data (things)",
+        "3": "containers",
+        "4": "media"
+    },
+    "data_tracked": false,
+    "demo_page": "https://simple-color-picker.bubbleapps.io/version-test",
+    "description": "This plugin will add a simple, modern looking color picker to your app!\n\n✅ Supports Autobinding\n✅ Responsive\n✅ Modern Design\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/simple-modern-color-picker-plugin-1728496410695x356459047176179260\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://dev.zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com",
+    "image": "//meta-l.cdn.bubble.io/f1694970475866x468139578007773500/%202023-09-17%20om%2019.07.40.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "Simple Modern Color Picker",
+    "plugin_instructions": "If you need an example, take a look at the demo page!\n\n1 - Place the '🎨 Simple Color Picker' on your page\n\n2 - Set an initial color or use autobinding, style the plugin so it will fit your app and you are done!",
+    "sa_node_version": 18
+}

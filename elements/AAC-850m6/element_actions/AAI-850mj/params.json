@@ -1,0 +1,12 @@
+{
+    "caption": "Set color",
+    "fields": {
+        "AAJ": {
+            "caption": "Color",
+            "default_val": "rgba(15,165,241,1)",
+            "editor": "Color",
+            "name": "color",
+            "rank": 0
+        }
+    }
+}

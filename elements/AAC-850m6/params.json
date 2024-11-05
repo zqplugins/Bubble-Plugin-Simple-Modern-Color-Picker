@@ -1,0 +1,112 @@
+{
+    "add_is_visible": true,
+    "autobinding_value": "text",
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 35,
+        "width": 35
+    },
+    "display": "🎨 Simple Color Picker",
+    "events": {
+        "AAL": {
+            "caption": "Value Changed",
+            "name": "value_got_saved"
+        }
+    },
+    "fields": {
+        "AAD": {
+            "caption": "Background color",
+            "default_val": "rgba(44,43,45,0.7)",
+            "doc": "Background color of the floating color picker group",
+            "editor": "Color",
+            "name": "background_color",
+            "rank": 4
+        },
+        "AAE": {
+            "caption": "Input background color",
+            "default_val": "rgba(255,255,255,0.15)",
+            "editor": "Color",
+            "name": "input_background_color",
+            "rank": 5
+        },
+        "AAF": {
+            "caption": "Input font color",
+            "default_val": "rgba(255,255,255,1)",
+            "editor": "Color",
+            "name": "input_font_color",
+            "rank": 6
+        },
+        "AAG": {
+            "caption": "Button color",
+            "default_val": "rgba(255,255,255,0.15)",
+            "editor": "Color",
+            "name": "main_color",
+            "rank": 7
+        },
+        "AAH": {
+            "caption": "Initial color",
+            "default_val": "rgba(209,170,170,1)",
+            "editor": "Color",
+            "name": "initial_color",
+            "rank": 0
+        },
+        "AAM": {
+            "caption": "Border color",
+            "default_val": "rgba(255,255,255,0.15)",
+            "editor": "Color",
+            "name": "border_color",
+            "rank": 2
+        },
+        "AAN": {
+            "caption": "Border radius",
+            "default_val": 12,
+            "doc": "Border radius in pixels",
+            "editor": "DynamicValue",
+            "name": "border_radius",
+            "rank": 3,
+            "value": "number"
+        },
+        "AAO": {
+            "caption": "Border width",
+            "default_val": 2,
+            "editor": "DynamicValue",
+            "name": "border_width",
+            "rank": 1,
+            "value": "number"
+        },
+        "AAR": {
+            "caption": "Use RGB value for autobinding",
+            "default_val": false,
+            "editor": "Checkbox",
+            "name": "use_rgb_value_for_autobinding",
+            "rank": 8
+        }
+    },
+    "icon": "ion-android-color-palette",
+    "property_applications": {
+        "Font": true,
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAK": {
+            "caption": "Value (hex)",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "value",
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "Value (RGB)",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "value_rgb",
+            "value": "text"
+        }
+    },
+    "support_autobinding": true
+}
