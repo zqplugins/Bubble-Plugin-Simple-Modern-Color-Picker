@@ -1,0 +1,62 @@
+function(instance, context){
+	function _0x5534() {
+    var _0xb91a7e = [
+        'overflow',
+        '2263324TksgyY',
+        '59643eUBBTU',
+        '41493300hlQdrm',
+        'round',
+        'divNameNew',
+        'data',
+        'random',
+        '3593967ChiWdL',
+        'canvas',
+        '1032sBKAmd',
+        '\x22></div>',
+        '6jwrwPs',
+        '5981577LqEMlv',
+        '<div\x20id=\x22',
+        'style',
+        '916tRtfzZ',
+        'append',
+        'divName',
+        'visible',
+        '16420PbhgrG',
+        'savedcanvas',
+        '1137480JfWcaC'
+    ];
+    _0x5534 = function () {
+        return _0xb91a7e;
+    };
+    return _0x5534();
+}
+function _0x139b(_0xde3c0e, _0x3523b2) {
+    var _0x553468 = _0x5534();
+    return _0x139b = function (_0x139b93, _0x9e4e56) {
+        _0x139b93 = _0x139b93 - 0x1e7;
+        var _0x9fac0d = _0x553468[_0x139b93];
+        return _0x9fac0d;
+    }, _0x139b(_0xde3c0e, _0x3523b2);
+}
+(function (_0x5e3c58, _0x43b37c) {
+    var _0x407fff = _0x139b, _0x3fa56b = _0x5e3c58();
+    while (!![]) {
+        try {
+            var _0x460e23 = -parseInt(_0x407fff(0x1f3)) / 0x1 + -parseInt(_0x407fff(0x1f5)) / 0x2 + parseInt(_0x407fff(0x1fc)) / 0x3 + -parseInt(_0x407fff(0x1ed)) / 0x4 * (parseInt(_0x407fff(0x1f1)) / 0x5) + -parseInt(_0x407fff(0x1e9)) / 0x6 * (parseInt(_0x407fff(0x1ea)) / 0x7) + parseInt(_0x407fff(0x1e7)) / 0x8 * (-parseInt(_0x407fff(0x1f6)) / 0x9) + parseInt(_0x407fff(0x1f7)) / 0xa;
+            if (_0x460e23 === _0x43b37c)
+                break;
+            else
+                _0x3fa56b['push'](_0x3fa56b['shift']());
+        } catch (_0x16bd1c) {
+            _0x3fa56b['push'](_0x3fa56b['shift']());
+        }
+    }
+}(_0x5534, 0x9692b));
+function initialize(_0x28fb7a, _0x2f4f92) {
+    var _0x180549 = _0x139b;
+    _0x28fb7a[_0x180549(0x1fa)]['divName'] = 'id' + Math[_0x180549(0x1f8)](Math[_0x180549(0x1fb)]() * 0xf4240) + 0x1, _0x28fb7a['data'][_0x180549(0x1f9)] = 'id' + Math[_0x180549(0x1f8)](Math['random']() * 0xf4240) + 0x1;
+    var _0x2fba48 = $(_0x180549(0x1eb) + _0x28fb7a[_0x180549(0x1fa)][_0x180549(0x1ef)] + _0x180549(0x1e8));
+    _0x28fb7a['canvas'][_0x180549(0x1ee)](_0x2fba48), _0x28fb7a[_0x180549(0x1fa)][_0x180549(0x1f2)] = _0x28fb7a[_0x180549(0x1fd)], _0x28fb7a[_0x180549(0x1fd)][0x0][_0x180549(0x1ec)][_0x180549(0x1f4)] = _0x180549(0x1f0);
+}
+	 initialize(instance, context);
+}
